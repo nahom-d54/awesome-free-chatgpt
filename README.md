@@ -10,6 +10,7 @@ The following list contains several unofficial websites (reverse proxies) for us
 Use for free and without an account:
 
 - [ai.ls](https://ai.ls/?chat=1) 🤖🌡️
+- [aiask.me](https://chat.aiask.me/#/home/chat) 🌡️
 - [freegpt.one](https://freegpt.one)
 - [fastgpt.app](https://fastgpt.app/) 🧠🧠 (very limited access)
 - [chatbot.theb.ai](https://chatbot.theb.ai)
