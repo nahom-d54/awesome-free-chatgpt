@@ -11,7 +11,7 @@ Use for free and without an account:
 
 - [ai.ls](https://ai.ls/?chat=1) 🤖🌡️
 - [freegpt.one](https://freegpt.one)
-- [fastgpt.app](https://fastgpt.app/) 🧠🧠 (limtied)
+- [fastgpt.app](https://fastgpt.app/) 🧠🧠 (very limited access)
 - [chatbot.theb.ai](https://chatbot.theb.ai)
 - [dev.yqcloud.top](https://dev.yqcloud.top)
 - [aitianhu.com](https://www.aitianhu.com) 🤖
