@@ -47,5 +47,9 @@ This project is not affiliated to or maintained by OpenAI. Please make sure to r
 - [OpenAI Blog about ChatGPT](https://openai.com/blog/chatgpt/)
 - [Better ChatGPT](https://github.com/ztjhz/BetterChatGPT)
 
+## Credit
+This list is based on:
+- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
+
 Feel free to contribute :)
 Report any issues to the "issues" tab.
