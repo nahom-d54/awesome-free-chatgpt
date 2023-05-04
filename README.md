@@ -23,11 +23,11 @@ Use for free and without an account:
 - [chatgptproxy.info](https://chatgptproxy.info) 🤖
 - [chatgpt.hz-it-dev.com](https://chatgpt.hz-it-dev.com) 🤖 🧠🧠 🌡️
 
-🤖 = No cloudflare
+🤖 = [No cloudflare](https://github.com/nsde/is-it-using-cloudflare)
 
-🧠 = GPT-4 is supported
+🧠 = GPT-4 support
 
-🧠🧠 = GPT-4-32k is supported
+🧠🧠 = GPT-4-32k support
 
 🌡️ = Temperature configurable 
 
