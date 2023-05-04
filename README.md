@@ -1,4 +1,4 @@
-# Awesome Free unofficial ChatGPT reverse proxies/websites without account/API key requirement 🔥
+# Awesome Free unofficial ChatGPT websites without account/API key requirement 🔥
 
 The following list contains several unofficial websites (reverse proxies) for using OpenAI's ChatGPT for free.
 
