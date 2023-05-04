@@ -14,19 +14,18 @@ This project is not affiliated to or maintained by OpenAI. Please make sure to r
 ***
 Use for free and without an account:
 
-- https://freegpt.one
-- https://fastgpt.app/
-- https://ai.ls/?chat=1
-- https://chatbot.theb.ai
-- https://dev.yqcloud.top
-- https://chat.gptplus.one
-- https://chat.gptplus.one
-- https://www.aitianhu.com
-- https://chatgptproxy.info
-- https://chat.51buygpt.com
-- https://www.promptboom.com
-- https://chatgpt.hz-it-dev.com
-- https://www.chatgptunli.com/chatgpt
+- [ai.ls](https://ai.ls/?chat=1)
+- [freegpt.one](https://freegpt.one)
+- [fastgpt.app](https://fastgpt.app/)
+- [chatbot.theb.ai](https://chatbot.theb.ai)
+- [dev.yqcloud.top](https://dev.yqcloud.top)
+- [chat.gptplus.one](https://chat.gptplus.one)
+- [aitianhu.com](https://www.aitianhu.com)
+- [chatgptproxy.info](https://chatgptproxy.info)
+- [51buygpt.com](https://chat.51buygpt.com)
+- [promptboom](https://www.promptboom.com)
+- [chatgpt.hz-it-dev.com](https://chatgpt.hz-it-dev.com)
+- [chatgptunli.com](https://www.chatgptunli.com/chatgpt)
 
 ***
 
