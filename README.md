@@ -3,6 +3,8 @@
 
 The following list contains several unofficial websites (reverse proxies) for using [OpenAI's ChatGPT](https://chat.openai.com/) for free.
 
+## Disclaimer
+
 Please note that they are not maintained, advertisied or created by OpenAI!
 
 They are especially useful if you are a researcher/journalist in a country where ChatGPT is forbidden and you need to access it, still.
@@ -11,21 +13,24 @@ This project is not affiliated to or maintained by OpenAI. Please make sure to r
 
 **Tip:** install uBlock Origin, Brave or any other ad-blocker to protect from the extensive ads on these websites :)
 
-***
+## Working websites
 Use for free and without an account:
 
-- [ai.ls](https://ai.ls/?chat=1)
-- [freegpt.one](https://freegpt.one)
-- [fastgpt.app](https://fastgpt.app/)
-- [chatbot.theb.ai](https://chatbot.theb.ai)
-- [dev.yqcloud.top](https://dev.yqcloud.top)
-- [chat.gptplus.one](https://chat.gptplus.one)
-- [aitianhu.com](https://www.aitianhu.com)
-- [chatgptproxy.info](https://chatgptproxy.info)
-- [51buygpt.com](https://chat.51buygpt.com)
-- [promptboom](https://www.promptboom.com)
-- [chatgpt.hz-it-dev.com](https://chatgpt.hz-it-dev.com)
-- [chatgptunli.com](https://www.chatgptunli.com/chatgpt)
+- [ai.ls](https://ai.ls/?chat=1) 🤖
+- [freegpt.one](https://freegpt.one) ☁️
+- [fastgpt.app](https://fastgpt.app/) ☁️
+- [chatbot.theb.ai](https://chatbot.theb.ai) ☁️
+- [dev.yqcloud.top](https://dev.yqcloud.top) ☁️
+- [chat.gptplus.one](https://chat.gptplus.one) 🤖
+- [aitianhu.com](https://www.aitianhu.com) 🤖
+- [chatgptproxy.info](https://chatgptproxy.info) 🤖
+- [51buygpt.com](https://chat.51buygpt.com) 🤖
+- [promptboom](https://www.promptboom.com) ☁️
+- [chatgpt.hz-it-dev.com](https://chatgpt.hz-it-dev.com) 🤖
+- [chatgptunli.com](https://www.chatgptunli.com/chatgpt) 🤖
+
+☁️ = Cloudflare
+🤖 = No cloudflare
 
 ***
 
