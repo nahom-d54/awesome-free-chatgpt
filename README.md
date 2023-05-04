@@ -34,6 +34,7 @@ More useful resources:
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)
 - [API Documentation](https://platform.openai.com/docs)
 - [OpenAI Blog about ChatGPT](https://openai.com/blog/chatgpt/)
+- [Better ChatGPT](https://github.com/ztjhz/BetterChatGPT)
 
 Feel free to contribute :)
 Report any issues to the "issues" tab.
