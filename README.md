@@ -51,5 +51,9 @@ This project is not affiliated to or maintained by OpenAI. Please make sure to r
 This list is based on:
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Luna-GPT/awesome-free-chatgpt&type=Date)](https://star-history.com/#Luna-GPT/awesome-free-chatgpt&Date)
+
 Feel free to contribute :)
 Report any issues to the "issues" tab.
