@@ -26,7 +26,7 @@ Use for free and without an account:
 - [chatgptunli.com](https://www.chatgptunli.com/chatgpt) 🤖
 - [chat.gptplus.one](https://chat.gptplus.one) 🤖 🌡️
 - [chatgptproxy.info](https://chatgptproxy.info) 🤖
-- [chatgpt.hz-it-dev.com](https://chatgpt.hz-it-dev.com) 🤖 🧠🧠 🌡️
+- ~~[chatgpt.hz-it-dev.com](https://chatgpt.hz-it-dev.com) 🤖 🧠🧠 🌡️~~ **got taken down!**
 
 🤖 = [No cloudflare](https://github.com/nsde/is-it-using-cloudflare)
 
