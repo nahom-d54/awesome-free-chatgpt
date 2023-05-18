@@ -30,6 +30,12 @@ Use for free and without an account:
 - [chatgptproxy.info](https://chatgptproxy.info) 🤖
 - [gpt4.gravityengine.cc](https://gpt4.gravityengine.cc/) 🌡️
 - [chat.gpt.bz/gpt](https://chat.gpt.bz/gpt)
+- [chat.cutim.one](http://chat.cutim.one/#/chat)
+- [chatgpt.dreamtrend.net](https://chatgpt.dreamtrend.net/)
+- [chat.ok2ai.com](https://chat.ok2ai.com/#/chat)
+- [vip6.shkj321.com](https://vip6.shkj321.com/#/chatx)
+- [chataibase.com](https://chataibase.com)
+
 - ~~[chatgpt.hz-it-dev.com](https://chatgpt.hz-it-dev.com) 🤖 🧠🧠 🌡️~~ **got taken down!**
 
 🤖 = [No cloudflare](https://github.com/nsde/is-it-using-cloudflare)
