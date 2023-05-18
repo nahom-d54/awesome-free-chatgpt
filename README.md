@@ -58,7 +58,7 @@ This list is based on:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Luna-GPT/awesome-free-chatgpt&type=Date)](https://star-history.com/#Luna-GPT/awesome-free-chatgpt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Luna-OSS/awesome-free-chatgpt&type=Date)](https://star-history.com/#Luna-OSS/awesome-free-chatgpt&Date)
 
 Feel free to contribute :)
 Report any issues to the "issues" tab.
