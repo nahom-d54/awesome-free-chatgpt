@@ -15,6 +15,7 @@ Use for free and without an account:
 
 - [ai.ci](https://ai.ci/?chat=1) 🌡️
 - [ai.ls](https://ai.ls/?chat=1) 🤖🌡️
+- [pro.ai.ls](https://pro.ai.ls/?chat=1)
 - [pizzagpt.it](https://pizzagpt.it)
 - [aiask.me](https://chat.aiask.me/#/home/chat) 🌡️
 - [freegpt.one](https://freegpt.one)
@@ -42,7 +43,7 @@ Use for free and without an account:
 - [chatforai.site/](https://chatforai.site/)
 - [chat.zhulei.xyz/](https://chat.zhulei.xyz/)
 - [trychatgp.com](https://trychatgp.com/chat/new)
-- 
+- [omg.ck9.us/](http://omg.ck9.us/)
 
 - ~~[chatgpt.hz-it-dev.com](https://chatgpt.hz-it-dev.com) 🤖 🧠🧠 🌡️~~ **got taken down!**
 
