@@ -13,6 +13,7 @@ The following list contains several unofficial websites (reverse proxies) for us
 ## Working websites
 Use for free and without an account:
 
+- [ai.ci](https://ai.ci/?chat=1) 🌡️
 - [ai.ls](https://ai.ls/?chat=1) 🤖🌡️
 - [pizzagpt.it](https://pizzagpt.it)
 - [aiask.me](https://chat.aiask.me/#/home/chat) 🌡️
@@ -35,6 +36,13 @@ Use for free and without an account:
 - [chat.ok2ai.com](https://chat.ok2ai.com/#/chat)
 - [vip6.shkj321.com](https://vip6.shkj321.com/#/chatx)
 - [chataibase.com](https://chataibase.com)
+- [desk.im](https://desk.im/?chat=1) 🌡️
+- [greengpt.app/chat](https://greengpt.app/chat)
+- [chatforai.com/](https://chatforai.com/)
+- [chatforai.site/](https://chatforai.site/)
+- [chat.zhulei.xyz/](https://chat.zhulei.xyz/)
+- [trychatgp.com](https://trychatgp.com/chat/new)
+- 
 
 - ~~[chatgpt.hz-it-dev.com](https://chatgpt.hz-it-dev.com) 🤖 🧠🧠 🌡️~~ **got taken down!**
 
@@ -55,6 +63,10 @@ They are especially useful if you are a researcher/journalist in a country where
 This project is not affiliated to or maintained by OpenAI. Please make sure to read and follow their terms of service!
 
 **Tip:** install uBlock Origin, Brave or any other ad-blocker to protect from the extensive ads on these websites :)
+
+Some of these websites are in Chinese, but don't worry - I don't understand any Chinese myself and only chose websites I still found easy to use.
+
+Moreover, I only chose websites where the AI responds in English, too.
 
 ## Useful resources:
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)
