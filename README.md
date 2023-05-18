@@ -14,6 +14,7 @@ The following list contains several unofficial websites (reverse proxies) for us
 Use for free and without an account:
 
 - [ai.ls](https://ai.ls/?chat=1) 🤖🌡️
+- [pizzagpt.it](https://pizzagpt.it)
 - [aiask.me](https://chat.aiask.me/#/home/chat) 🌡️
 - [freegpt.one](https://freegpt.one)
 - [fastgpt.app](https://fastgpt.app/) 🧠🧠 (very limited access)
@@ -22,11 +23,13 @@ Use for free and without an account:
 - [aitianhu.com](https://www.aitianhu.com) 🤖
 - [51buygpt.com](https://chat.51buygpt.com) 🤖
 - [promptboom.com](https://www.promptboom.com)
-- [pizzagpt.it](https://pizzagpt.it)
 - [promptboom.com/chatgptpro](https://www.promptboom.com/chatgptpro) 🧠?
 - [chatgptunli.com](https://www.chatgptunli.com/chatgpt) 🤖
 - [chat.gptplus.one](https://chat.gptplus.one) 🤖 🌡️
+- [chatgptproxy.me](https://chatgptproxy.me/index.html#/)
 - [chatgptproxy.info](https://chatgptproxy.info) 🤖
+- [gpt4.gravityengine.cc](https://gpt4.gravityengine.cc/) 🌡️
+- [chat.gpt.bz/gpt](https://chat.gpt.bz/gpt)
 - ~~[chatgpt.hz-it-dev.com](https://chatgpt.hz-it-dev.com) 🤖 🧠🧠 🌡️~~ **got taken down!**
 
 🤖 = [No cloudflare](https://github.com/nsde/is-it-using-cloudflare)
@@ -39,7 +42,7 @@ Use for free and without an account:
 
 ## Disclaimer
 
-Please note that they are not maintained, advertisied or created by OpenAI!
+Please note that these unofficial "proxies" are not maintained, developed or made by OpenAI!
 
 They are especially useful if you are a researcher/journalist in a country where ChatGPT is forbidden and you need to access it, still.
 
