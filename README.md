@@ -22,6 +22,7 @@ Use for free and without an account:
 - [aitianhu.com](https://www.aitianhu.com) 🤖
 - [51buygpt.com](https://chat.51buygpt.com) 🤖
 - [promptboom.com](https://www.promptboom.com)
+- [pizzagpt.it](https://pizzagpt.it)
 - [promptboom.com/chatgptpro](https://www.promptboom.com/chatgptpro) 🧠?
 - [chatgptunli.com](https://www.chatgptunli.com/chatgpt) 🤖
 - [chat.gptplus.one](https://chat.gptplus.one) 🤖 🌡️
