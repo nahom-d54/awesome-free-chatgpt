@@ -5,7 +5,7 @@
 
 <img align="center" height=300 alt="OpenAI ChatGPT Cover Banner" src="https://user-images.githubusercontent.com/67185896/236300795-7926211f-6a43-4f19-b94a-0da2c7776e47.png">
 
-The following table contains several unofficial websites (reverse proxies) for using [OpenAI's ChatGPT](https://chat.openai.com/) with for free. The following chat models can be used (depends on site):
+The following table contains several unofficial websites for using [OpenAI's ChatGPT](https://chat.openai.com/) without an account or an API key for free. The following chat models can be used (depends on site):
 - `gpt-3.5-turbo` (allows max. 4,096 input tokens)
 - `gpt-4` (allows max. 8,192 input tokens)
 - `gpt-4-32k` (allows max. 32,768 input tokens)
@@ -16,29 +16,29 @@ All of them respond in English, too (even if the website itself is in Chinese).
 The table only represents the features of the free version of the website. Some websites offer a paid version with more features.
 
 
-| Website                        | 3.5  | 4*    | 4-32k | No CF | API | Custom Temp. | Custom Sys. Prompt | English | GUI              | Notes                   |
-| ------------------------------ | ---- | ---- | ----- | ----- | --- | ------------ | ------------------ | ------- | ---------------- | ----------------------- |
-| https://chat.gptplus.one       | ✔️ | ❌   | ❌    | ✔️  |     | ✔️         | ✔️               | ✔️    | Chanzhaoyu       |                         |
-| https://ai.ls                  | ✔️ | ❌ | ❌    | ✔️  |     | ✔️         | ✔️               | ✔️    | ai.ls            |                         |
-| https://chat.cutim.one         | ✔️ | ❌   | ❌    | ✔️  |     | ✔️         | ✔️               | ✔️    | Chanzhaoyu       |                         |
-| https://chat.ok2ai.com         | ✔️ | ❌   | ❌    | ❌    |     | ✔️         | ✔️               | ✔️    | Chanzhaoyu       |                         |
-| https://gpt4.gravityengine.cc  | ✔️ | ❌   | ❌    | ❌    |     | ✔️         | ✔️               | ✔️    | Gradio           | Awesome customizability |
-| https://promptboom.com         | ✔️ | ✔️ | ❌    | ❌    |     | ❌           | ⚙️               | ✔️    | PChat            | *Pchat Pro* is GPT-4    |
-| https://aiask.me               | ✔️ | ❌   | ❌    | ❌    |     | ✔️         | ⚙️               | ✔️    | aiask.me         |                         |
-| https://greengpt.app           | ✔️ | ✔️ | ❌    | ✔️  |     | ❌           | ❌                 | ✔️    | ?       |                         |
-| https://www.aitianhu.com       | ✔️ | ❌   | ❌    | ✔️  |     | ❌           | ❌                 | ✔️    | Chanzhaoyu       |                         |
-| https://chatgptunli.com        | ✔️ | ❌   | ❌    | ✔️  |     | ❌           | ⚙️               | ✔️    | ChatAI Unli      |                         |
-| https://chatgptproxy.me        | ✔️ | ❌   | ❌    | ✔️  |     | ❌           | ❌                 | ✔️    | Chanzhaoyu       |                         |
-| https://chatgpt.dreamtrend.net | ✔️ | ❌   | ❌    | ✔️  |     |              | ❌                 | ✔️    | ChatGPT          |                         |
-| https://chatforai.com         | ✔️ | ❌   | ❌    | ✔️  |     | ❌         | ❌               | ✔️    | ?       |                         |
-| https://chat.zhulei.xyz        | ✔️ | ❌   | ❌    | ✔️  |     | ✔️         | ❌               | ❌    | ?       |                         |
-| https://vip6.shkj321.com       | ✔️ | ❌   | ❌    | ✔️  |     | ✔️         | ❌                 | ❌      | ?                | GPT-4 doesn't work      |
-| http://omg.ck9.us/             | ✔️ | ❌   | ❌    | ✔️  |     | ❌           | ✔️                 | ❌    | ?       | GPT-4 doesn't work|
-| https://chat.gpt.bz/gpt        | ✔️ | ❌   | ❌    | ✔️  |     | ❌           | ❌                 | ✔️    | ChatGPT (simple) | Quick; asks for CAPTCHA |
-| https://chatbot.theb.ai        | ✔️ | ❌   | ❌    | ❌    |     | ❌           | ⚙️               | ✔️    | Chanzhaoyu       |                         |
-| https://freegpt.one            | ✔️ | ❌   | ❌    | ❌    |     | ❌           | ❌                 | ✔️    | ChatGPT (old)    | Buggy                   |
-| https://trychatgp.com          | ✔️ | ❌   | ❌    | ✔️  |     | ❌           | ❌                 | ❌    | ?       |                         |
-| https://pizzagpt.it            | ✔️ | ❌   | ❌    | ❌    |     | ❌           | ❌                 | ❌      | PizzaGPT         |                         |
+| Website                                        | 3.5  | 4*   | 4-32k | No CF | API | Custom Temp. | Custom Sys. Prompt | English | GUI              | Notes                    |
+| ---------------------------------------------- | ---- | ---- | ----- | ----- | --- | ------------ | ------------------ | ------- | ---------------- | ------------------------ |
+| [GPTPlus](https://chat.gptplus.one)            | ✔️ | ❌   | ❌    | ✔️  |     | ✔️         | ✔️               | ✔️    | Chanzhaoyu       |                          |
+| [AI.ls](https://ai.ls)                         | ✔️ | ❌   | ❌    | ✔️  |     | ✔️         | ✔️               | ✔️    | ai.ls            |                          |
+| [Cutim](https://chat.cutim.one)                | ✔️ | ❌   | ❌    | ✔️  |     | ✔️         | ✔️               | ✔️    | Chanzhaoyu       |                          |
+| [Ok2AI](https://chat.ok2ai.com)                | ✔️ | ❌   | ❌    | ❌    |     | ✔️         | ✔️               | ✔️    | Chanzhaoyu       |                          |
+| [GravityEngine](https://gpt4.gravityengine.cc) | ✔️ | ❌   | ❌    | ❌    |     | ✔️         | ✔️               | ✔️    | Gradio           | Awesome customizability  |
+| [PromptBoom](https://promptboom.com     )      | ✔️ | ❌   | ❌    | ❌    |     | ❌           | ⚙️               | ✔️    | PChat            | *Pchat Pro* is NOT GPT-4 |
+| [AiAsk](https://aiask.me)                      | ✔️ | ❌   | ❌    | ❌    |     | ✔️         | ⚙️               | ✔️    | aiask.me         |                          |
+| [GreenGPT](https://greengpt.app)               | ✔️ | ✔️ | ❌    | ✔️  |     | ❌           | ❌                 | ✔️    | ?                |                          |
+| [Aitianhu](https://www.aitianhu.com)           | ✔️ | ❌   | ❌    | ✔️  |     | ❌           | ❌                 | ✔️    | Chanzhaoyu       |                          |
+| [ChatGPT Unli](https://chatgptunli.com)        | ✔️ | ❌   | ❌    | ✔️  |     | ❌           | ⚙️               | ✔️    | ChatAI Unli      |                          |
+| [ChatGPT Proxy](https://chatgptproxy.me)       | ✔️ | ❌   | ❌    | ✔️  |     | ❌           | ❌                 | ✔️    | Chanzhaoyu       |                          |
+| [DreamTrend](https://chatgpt.dreamtrend.net)   | ✔️ | ❌   | ❌    | ✔️  |     |              | ❌                 | ✔️    | ChatGPT          |                          |
+| [Chat for AI](https://chatforai.com)           | ✔️ | ❌   | ❌    | ✔️  |     | ❌           | ❌                 | ✔️    | ?                |                          |
+| [Zhulei](https://chat.zhulei.xyz)              | ✔️ | ❌   | ❌    | ✔️  |     | ✔️         | ❌                 | ❌      | ?                |                          |
+| [Shkj321](https://vip6.shkj321.com)            | ✔️ | ❌   | ❌    | ✔️  |     | ✔️         | ❌                 | ❌      | ?                | GPT-4 doesn't work       |
+| [Ck9](http://omg.ck9.us/)                      | ✔️ | ❌   | ❌    | ✔️  |     | ❌           | ✔️               | ❌      | ?                | GPT-4 doesn't work       |
+| [Gpt.bz](https://chat.gpt.bz/gpt)              | ✔️ | ❌   | ❌    | ✔️  |     | ❌           | ❌                 | ✔️    | ChatGPT (simple) | Quick; asks for CAPTCHA  |
+| [Theb](https://chatbot.theb.ai)                | ✔️ | ❌   | ❌    | ❌    |     | ❌           | ⚙️               | ✔️    | Chanzhaoyu       |                          |
+| [FreeGPT](https://freegpt.one)                 | ✔️ | ❌   | ❌    | ❌    |     | ❌           | ❌                 | ✔️    | ChatGPT (old)    | Buggy                    |
+| [TryChatGP](https://trychatgp.com)             | ✔️ | ❌   | ❌    | ✔️  |     | ❌           | ❌                 | ❌      | ?                |                          |
+| [PizzaGPT](https://pizzagpt.it)                | ✔️ | ❌   | ❌    | ❌    |     | ❌           | ❌                 | ❌      | PizzaGPT         |                          |
 
 
 *GPT-4 support needs more testing to confirm. Feel free to contribute by creating a pull request and explaining how you tested it.
