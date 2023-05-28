@@ -3,7 +3,9 @@
 ![](https://img.shields.io/github/issues/Luna-GPT/awesome-free-chatgpt)
 ![](https://img.shields.io/github/contributors/Luna-GPT/awesome-free-chatgpt)
 
-<img align="center" height=300 alt="OpenAI ChatGPT Cover Banner" src="https://user-images.githubusercontent.com/67185896/236300795-7926211f-6a43-4f19-b94a-0da2c7776e47.png">
+<img align="center" width="600" alt="OpenAI ChatGPT Cover Banner" src="https://user-images.githubusercontent.com/67185896/236300795-7926211f-6a43-4f19-b94a-0da2c7776e47.png">
+
+<br>
 
 The following table contains several unofficial websites for using [OpenAI's ChatGPT](https://chat.openai.com/) without an account or an API key for free. The following chat models can be used (depends on site):
 - `gpt-3.5-turbo` (allows max. 4,096 input tokens)
