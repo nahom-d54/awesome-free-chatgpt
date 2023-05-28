@@ -12,16 +12,20 @@ The following table contains several unofficial websites for using [OpenAI's Cha
 - `gpt-4` (allows max. 8,192 input tokens)
 - `gpt-4-32k` (allows max. 32,768 input tokens)
 
-## Working ChatGPT proxy websites (no account/API key required)
+## Working ChatGPT proxy/mirror websites (no account/API key required)
 All of them respond in English, too (even if the website itself is in Chinese).
 
 The table only represents the features of the free version of the website. Some websites offer a paid version with more features.
 
+Make sure to read the text under the table, as well, as it contains important information about the websites.
+
+
+**The API column is coming soon.**
 
 | Website                                        | 3.5  | 4*  | 4-32k | No CF | API | Custom Temp. | Custom Sys. Prompt | English possible | GUI              | Notes                                                           |
 | ---------------------------------------------- | ---- | --- | ----- | ----- | --- | ------------ | ------------------ | ---------------- | ---------------- | --------------------------------------------------------------- |
 | [GPTPlus](https://chat.gptplus.one)            | ✔️ | ❌  | ❌    | ✔️  |     | ✔️         | ✔️               | ✔️             | Chanzhaoyu       |                                                                 |
-| [GetGPT](https://chat.getgpt.world/)           | ✔️ | ❌  | ❌    | ✔️  |     | ❌           | ❌                 | ✔️             | BetterGPT        | Customization (temp, etc. disabled for some reason |
+| [GetGPT](https://chat.getgpt.world)           | ✔️ | ❌  | ❌    | ✔️  |     | ❌           | ❌                 | ✔️             | BetterGPT        | Customization is disabled |
 | [AI.ls](https://ai.ls)                         | ✔️ | ❌  | ❌    | ✔️  |     | ✔️         | ✔️               | ✔️             | ai.ls            |                                                                 |
 | [Cutim](https://chat.cutim.one)                | ✔️ | ❌  | ❌    | ✔️  |     | ✔️         | ✔️               | ✔️             | Chanzhaoyu       |                                                                 |
 | [Ok2AI](https://chat.ok2ai.com)                | ✔️ | ❌  | ❌    | ❌    |     | ✔️         | ✔️               | ✔️             | Chanzhaoyu       |                                                                 |
@@ -85,7 +89,7 @@ This means that the website has multiple domains that point to the same website.
 - https://chat.51buygpt.com
     - stopped working
 - https://fastgpt.app/
-    - stopped working
+    - stopped working/requires API key
 
 ## Disclaimer
 
@@ -101,7 +105,7 @@ Some of these websites are in Chinese, but don't worry - I don't understand any 
 
 Moreover, I only chose websites where the AI responds in English, too.
 
-## Useful resources:
+## Useful resources
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)
 - [API Documentation](https://platform.openai.com/docs)
 - [OpenAI Blog about ChatGPT](https://openai.com/blog/chatgpt/)
